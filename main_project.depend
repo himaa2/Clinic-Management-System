@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1722366000 source:c:\users\hardware\desktop\main_project\main.c
+	<stdio.h>
+	"functions.h"
+
+1722366107 source:c:\users\hardware\desktop\main_project\functions.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	"functions.h"
+
+1722366156 c:\users\hardware\desktop\main_project\functions.h
+	<stdbool.h>
+
